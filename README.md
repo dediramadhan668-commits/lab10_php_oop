@@ -76,6 +76,8 @@ lab10_php_oop/
 
 ## 10. Dokumentasi
 - Screenshot Database
+<br> </br>
+
   <img width="416" height="434" alt="image" src="https://github.com/user-attachments/assets/628ea32d-6131-4789-a52d-d77198599835" />
   <img width="503" height="502" alt="image" src="https://github.com/user-attachments/assets/5bf01deb-9bb2-4de1-b9dc-cfd0419e403f" />
   <img width="651" height="383" alt="image" src="https://github.com/user-attachments/assets/089f66a6-b77e-4ebd-b1e0-eb3bcc9bfcec" />
@@ -88,6 +90,7 @@ lab10_php_oop/
 <img width="640" height="196" alt="image" src="https://github.com/user-attachments/assets/a9568078-ee4c-4eb5-b958-8475724b0059" />
 
 - Screenshot Mobil
-<img width="661" height="521" alt="image" src="https://github.com/user-attachments/assets/355e9814-97ce-4c0d-8bfa-7ea3b09ea7a1" />
+<img width="577" height="457" alt="image" src="https://github.com/user-attachments/assets/c7419968-e42f-4063-868f-2be3aa41da08" />
+
 <img width="496" height="300" alt="image" src="https://github.com/user-attachments/assets/b98fc1d0-7c40-431b-a92a-b505cd2f0dfd" />
 
