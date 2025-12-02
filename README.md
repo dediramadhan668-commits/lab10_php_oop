@@ -77,8 +77,17 @@ lab10_php_oop/
 ## 10. Dokumentasi
 - Screenshot Database
   <img width="416" height="434" alt="image" src="https://github.com/user-attachments/assets/628ea32d-6131-4789-a52d-d77198599835" />
-  
+  <img width="503" height="502" alt="image" src="https://github.com/user-attachments/assets/5bf01deb-9bb2-4de1-b9dc-cfd0419e403f" />
+  <img width="651" height="383" alt="image" src="https://github.com/user-attachments/assets/089f66a6-b77e-4ebd-b1e0-eb3bcc9bfcec" />
 
 - Screenshot Form Input
+<img width="651" height="499" alt="image" src="https://github.com/user-attachments/assets/d87dfa4f-d790-43eb-8887-9b4378197e2d" />
+
 - Screenshot Form
+<img width="651" height="487" alt="image" src="https://github.com/user-attachments/assets/c2bd898e-cac8-4984-b335-8ea653fff554" />
+<img width="640" height="196" alt="image" src="https://github.com/user-attachments/assets/a9568078-ee4c-4eb5-b958-8475724b0059" />
+
 - Screenshot Mobil
+<img width="661" height="521" alt="image" src="https://github.com/user-attachments/assets/355e9814-97ce-4c0d-8bfa-7ea3b09ea7a1" />
+<img width="496" height="300" alt="image" src="https://github.com/user-attachments/assets/b98fc1d0-7c40-431b-a92a-b505cd2f0dfd" />
+
