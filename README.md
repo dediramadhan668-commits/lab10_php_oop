@@ -81,7 +81,7 @@ lab10_php_oop/
 <br>
 <img width="503" height="502" alt="image" src="https://github.com/user-attachments/assets/5bf01deb-9bb2-4de1-b9dc-cfd0419e403f" />
 <br>
- img width="651" height="383" alt="image" src="https://github.com/user-attachments/assets/089f66a6-b77e-4ebd-b1e0-eb3bcc9bfcec" />
+<img width="651" height="383" alt="image" src="https://github.com/user-attachments/assets/089f66a6-b77e-4ebd-b1e0-eb3bcc9bfcec" />
 
 - Screenshot Form Input
 <img width="651" height="499" alt="image" src="https://github.com/user-attachments/assets/d87dfa4f-d790-43eb-8887-9b4378197e2d" />
